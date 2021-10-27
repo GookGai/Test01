@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
           leading: IconButton(
             icon: Icon(
               Icons.menu,
-              color: Colors.white,
+              color: Colors.redAccent,
             ),
             onPressed: null,
           ),
